@@ -21,7 +21,7 @@ void HanoiTowerMove(int num, char from, char by, char to)
 int main(void)
 {
 	// 막대A의 원반 3개를 막대B를 경유하여 막대C로 옮기기
-	//HanoiTowerMove(3, 'A', 'B', 'C');
-	HanoiTowerMove(5, 'A', 'B', 'C');
+	HanoiTowerMove(4, 'A', 'B', 'C');
+	//HanoiTowerMove(5, 'A', 'B', 'C');
 	return 0;
 }

@@ -1,6 +1,5 @@
 #ifndef __ARRAY_LIST_H__
 #define __ARRAY_LIST_H__
-
 #include "NameCard.h"
 
 #define TRUE	1
